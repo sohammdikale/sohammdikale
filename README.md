@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=SOHAM%20DIKALE&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+# 👋 Hey, I'm **Soham Dikale**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;AI%2FML+Enthusiast;Generative+AI+%7C+RAG+%7C+Computer+Vision;Python+%7C+SQL+%7C+Machine+Learning;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+Computer+Vision;Python+%7C+SQL+%7C+AI+Engineering;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" />
-
-<br><br>
-
 <a href="https://github.com/sohammdikale">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/soham-dikale-910592342/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sohammdikale&style=flat-square&color=2563eb&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=sohammdikale&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -28,18 +26,19 @@
 
 I'm **Soham Dikale**, an **Artificial Intelligence & Data Science student** passionate about building intelligent and practical solutions.
 
-I enjoy working at the intersection of **AI, software development and data**, with a focus on turning ideas into useful applications.
+I enjoy working at the intersection of **AI, software development and data**, with a focus on transforming ideas into useful applications.
 
 * 🎓 B.Tech in **Artificial Intelligence & Data Science**
-* 🤖 Interested in **AI / ML & Generative AI**
-* 🧠 Exploring **Deep Learning, NLP & Computer Vision**
-* 🔎 Building with **RAG & LLM-based applications**
-* 🐍 Python enthusiast
-* 📊 Interested in **Data Science & Analytics**
-* 💻 Love experimenting with new technologies
-* 🚀 Always learning. Always building.
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* ✨ Exploring **Generative AI, LLMs & RAG**
+* 👁️ Interested in **Computer Vision & NLP**
+* 🐍 Python developer and AI enthusiast
+* 📊 Exploring **Data Science & Analytics**
+* 💡 Passionate about learning through hands-on development
+* 🚀 Focused on becoming a strong **AI Engineer**
 
 ---
+
 
 ## ⚡ What I Work With
 
