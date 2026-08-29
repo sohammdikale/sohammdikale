@@ -61,13 +61,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohammdikale&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=sohammdikale&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohammdikale&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohammdikale&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -77,9 +77,10 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sohammdikale&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com/?user=sohammdikale&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
