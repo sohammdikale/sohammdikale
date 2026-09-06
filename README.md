@@ -1,161 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563eb,50:7c3aed,100:0f172a&text=Soham%20Dikale&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
+<!-- Animated typing intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Soham+%F0%9F%91%8B;AI+%26+Data+Science+%7C+Ethical+Hacking;Building+ML+%2B+Security+Systems;Currently%3A+Border+Surveillance+%26+RAG+Pipelines" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Machine+Learning+%7C+Computer+Vision;Generative+AI+%2F+RAG+Systems;Python+Developer+%7C+FastAPI+%2F+Flask;Building+Real-World+AI+Products" />
+<br/>
 
-<br>
-
-<a href="https://www.linkedin.com/in/soham-dikale-910592342/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sohammdikale"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=sohammdikale&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- Social + view badges -->
+<img src="https://komarev.com/ghpvc/?username=sohammdikale&label=Profile%20Views&color=6C63FF&style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Open_to_Collab-brightgreen?style=flat-square" />
 
 </div>
 
 ---
 
-## About
+### 🧠 About Me
 
-B.Tech student in **Artificial Intelligence & Data Science**, building applied ML and full-stack AI products rather than isolated notebooks — phishing detection, emotion recognition, video intelligence, and CCTV analytics systems with real deployment constraints (Flask/FastAPI backends, model serving, live inference pipelines).
+- 🎓 B.Tech in **AI & Data Science**, with a double minor in **Ethical Hacking**
+- 🔭 Currently building **IBVAP** — a phased FastAPI + Streamlit CCTV analytics platform for border surveillance
+- 🤖 Also working on an **AI Video Assistant** — CLI pipeline for transcription, summarization & RAG-based chat
+- 🏆 Prepping for **Smart India Hackathon**, exploring problem statements across domains
+- 💻 Comfortable across **Python & Java**, with a growing ML/CV project portfolio
+- ⚡ Fun fact: I bridge two worlds most people keep separate — building AI systems *and* breaking into them (ethically)
 
-Currently looking for **AI/ML Intern**, **Python Developer Intern**, or **Software Development Intern** roles.
+---
 
-<br>
-
-## Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark" />
-
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Generative AI / RAG` `LightGBM`
-
-**Web & Backend**
-<img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,html,css&theme=dark" />
-
-**Databases & Infra**
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" />
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-<table align="center">
+<table>
 <tr>
 <td width="50%">
 
-### 🛡️ IBVAP
-**Intelligent Border Video Analytics Platform**
-CCTV analytics: object detection, multi-object tracking, intrusion/loitering detection, ANPR, face recognition — built in 10 phases.
-
-`FastAPI` `Streamlit` `OpenCV` `YOLO11` `ByteTrack` `EasyOCR`
-
-[🔗 Repo](#)
+**🎥 AI Video Assistant**
+CLI pipeline for video transcription, summarization, and RAG-based chat, with a Streamlit UI wrapper.
+`Python` `RAG` `Streamlit`
 
 </td>
 <td width="50%">
 
-### 🎣 Phishveil
-URL phishing detector using an 87-feature pipeline.
-
-`Flask` `LightGBM`
-
-[🔗 Repo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎭 EMOTIA
-6-class emotion classifier, deployed live.
-
-`Flask/FastAPI` `TensorFlow (BiGRU)`
-
-[🔗 Repo](#)
-
-</td>
-<td width="50%">
-
-### 👗 StyleGen AI
-AI-based fashion stylist recommending outfits using weather context.
-
-`CNN` `Flutter` `Flask` `Weather API`
-
-[🔗 Repo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🧭 CareerPilot AI
-AI-driven career guidance portfolio project.
-
-`Python` `ML`
-
-[🔗 Repo](#)
+**🛰️ IBVAP**
+Intelligent Border Video Analytics Platform — a 10-phase CCTV analytics system built with FastAPI + Streamlit.
+`FastAPI` `Computer Vision` `Streamlit`
 
 </td>
 </tr>
 </table>
 
-*Add your repo URLs above — none were included in the source README.*
+---
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sohammdikale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohammdikale&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohammdikale&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohammdikale&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<br>
-
-## Currently Exploring
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=RAG+Systems+%26+LLM+Applications;Advanced+Computer+Vision+(Tracking%2C+ANPR%2C+Face+Recognition);AI+Engineering+Fundamentals" />
+<img src="https://github-readme-stats.vercel.app/api?username=sohammdikale&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohammdikale&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohammdikale&theme=radical&hide_border=true" />
 
 </div>
 
-<br>
+---
 
-## Connect
+### 📈 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sohammdikale/sohammdikale/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/soham-dikale-910592342/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sohammdikale"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 📫 Let's Connect
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,50:7c3aed,100:0f172a&animation=twinkling"/>
