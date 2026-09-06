@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Soham+%F0%9F%91%8B;AI+%26+Data+Science+%7C+Ethical+Hacking;Building+ML+%2B+Security+Systems;Currently%3A+Border+Surveillance+%26+RAG+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Soham+%F0%9F%91%8B;AI+%26+Data+Science+%7C+Cyber+Security;Building+ML+%2B+Security+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -15,10 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in **AI & Data Science**, with a double minor in **Ethical Hacking**
-- 🔭 Currently building **IBVAP** — a phased FastAPI + Streamlit CCTV analytics platform for border surveillance
-- 🤖 Also working on an **AI Video Assistant** — CLI pipeline for transcription, summarization & RAG-based chat
-- 🏆 Prepping for **Smart India Hackathon**, exploring problem statements across domains
+- 🎓 B.Tech in **AI & Data Science**, with a double minor in **Cyber Security**
 - 💻 Comfortable across **Python & Java**, with a growing ML/CV project portfolio
 - ⚡ Fun fact: I bridge two worlds most people keep separate — building AI systems *and* breaking into them (ethically)
 
@@ -68,8 +65,8 @@ Intelligent Border Video Analytics Platform — a 10-phase CCTV analytics system
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohammdikale&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohammdikale&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sohammdikale&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohammdikale&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohammdikale&theme=radical&hide_border=true" />
 
